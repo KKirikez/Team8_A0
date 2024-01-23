@@ -218,8 +218,4 @@ public class Applicant {
         this.score = score;
     }
 
-    @Override
-    public String toString() {
-        return String.format("%-20s %-20s %5d %5d", firstName, lastName, age, score);
-    }
 }
