@@ -2,21 +2,26 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Classes {
-	public static String[] readFile() throws IOException{
-//		Reads file and returns a string
+	public static ArrayList<Applicant> readFile() throws IOException{
+//		Reads file and returns an array of applicant objects
 		
 		File inputFile = new File("input/dataset-10.txt");
 		
 		Scanner input = new Scanner (inputFile);
 		
-		String[] data = {};
+		ArrayList<Applicant> data = new ArrayList<>();
 		
 		while (input.hasNext()) {
-			String[] currentLine = input.nextLine().split(" ");
-			System.out.println(currentLine[0]);
+			String[] currentLine = input.nextLine().split("\t");
+			if(currentLine[0].equals("first_name")) {
+				continue;
+			}
+			Applicant currentApplicant = new Applicant(currentLine);
+			data.add(currentApplicant);
 		}
 		
 		input.close();
@@ -79,7 +84,7 @@ public class Classes {
     }
 
     // Secondary Language
-    if (applicant.getAll2() == 1) {
+    if (applicant.getAll2().equals("yes")) {
         languageScore += 4;
     }
 

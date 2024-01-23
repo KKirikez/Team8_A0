@@ -8,52 +8,47 @@ public class Applicant {
     private int listen1;
     private int read1;
     private int write1;
-    private int all2;
+    private String all2;
 
     private String education;
-    private String workExperience;
+    private int workExperience;
     private String arrangedEmployment;
 
-    private int adaptabilitySpouseLanguage;
-    private int adaptabilitySpouseEducation;
-    private int adaptabilitySpouseWork;
+    private String adaptabilitySpouseLanguage;
+    private String adaptabilitySpouseEducation;
+    private String adaptabilitySpouseWork;
     
-    private int adaptabilityYouEducation;
-    private int adaptabilityYouWork;
-    private int adaptabilityYouEmployment;
-    private int adaptabilityRelatives;
+    private String adaptabilityYouEducation;
+    private String adaptabilityYouWork;
+    private String adaptabilityYouEmployment;
+    private String adaptabilityRelatives;
 
     private int score;
 
-    public Applicant(String firstName, String lastName, int age, String maritalStatus, 
-                     int speak1, int listen1, int read1, int write1, int all2, 
-                     String education, String workExperience, String arrangedEmployment, 
-                     int adaptabilitySpouseLanguage, int adaptabilitySpouseEducation, 
-                     int adaptabilitySpouseWork, int adaptabilityYouEducation, 
-                     int adaptabilityYouWork, int adaptabilityYouEmployment, 
-                     int adaptabilityRelatives) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.age = age;
-        this.maritalStatus = maritalStatus;
+    public Applicant(String[] data) {
+        
+    	this.firstName = data[0];
+        this.lastName = data[1];
+        this.age = Integer.parseInt(data[2]);
+        this.maritalStatus = data[3];
 
-        this.speak1 = speak1;
-        this.listen1 = listen1;
-        this.read1 = read1;
-        this.write1 = write1;
-        this.all2 = all2;
+        this.speak1 = Integer.parseInt(data[4]);
+        this.listen1 = Integer.parseInt(data[5]);
+        this.read1 = Integer.parseInt(data[6]);
+        this.write1 = Integer.parseInt(data[7]);
+        this.all2 = data[8];
 
-        this.education = education;
-        this.workExperience = workExperience;
-        this.arrangedEmployment = arrangedEmployment;
+        this.education = data[9];
+        this.workExperience = Integer.parseInt(data[10]);
+        this.arrangedEmployment = data[11];
 
-        this.adaptabilitySpouseLanguage = adaptabilitySpouseLanguage;
-        this.adaptabilitySpouseEducation = adaptabilitySpouseEducation;
-        this.adaptabilitySpouseWork = adaptabilitySpouseWork;
-        this.adaptabilityYouEducation = adaptabilityYouEducation;
-        this.adaptabilityYouWork = adaptabilityYouWork;
-        this.adaptabilityYouEmployment = adaptabilityYouEmployment;
-        this.adaptabilityRelatives = adaptabilityRelatives;
+        this.adaptabilitySpouseLanguage = data[12];
+        this.adaptabilitySpouseEducation = data[13];
+        this.adaptabilitySpouseWork = data[14];
+        this.adaptabilityYouEducation = data[15];
+        this.adaptabilityYouWork = data[16];
+        this.adaptabilityYouEmployment = data[17];
+        this.adaptabilityRelatives = data[18];
 
         this.score = 0;
     }
@@ -83,37 +78,37 @@ public class Applicant {
     public int getWrite1() {
         return write1;
     }
-    public int getAll2() {
+    public String getAll2() {
         return all2;
     }
     public String getEducation() {
         return education;
     }
-    public String getWorkExperience() {
+    public int getWorkExperience() {
         return workExperience;
     }
     public String getArrangedEmployment() {
         return arrangedEmployment;
     }
-    public int getAdaptabilitySpouseLanguage() {
+    public String getAdaptabilitySpouseLanguage() {
         return adaptabilitySpouseLanguage;
     }
-    public int getAdaptabilitySpouseEducation() {
+    public String getAdaptabilitySpouseEducation() {
         return adaptabilitySpouseEducation;
     }
-    public int getAdaptabilitySpouseWork() {
+    public String getAdaptabilitySpouseWork() {
         return adaptabilitySpouseWork;
     }
-    public int getAdaptabilityYouEducation() {
+    public String getAdaptabilityYouEducation() {
         return adaptabilityYouEducation;
     }
-    public int getAdaptabilityYouWork() {
+    public String getAdaptabilityYouWork() {
         return adaptabilityYouWork;
     }
-    public int getAdaptabilityYouEmployment() {
+    public String getAdaptabilityYouEmployment() {
         return adaptabilityYouEmployment;
     }
-    public int getAdaptabilityRelatives() {
+    public String getAdaptabilityRelatives() {
         return adaptabilityRelatives;
     }
     public int getScore() {
@@ -145,37 +140,37 @@ public class Applicant {
     public void setWrite1(int write1) {
         this.write1 = write1;
     }
-    public void setAll2(int all2) {
+    public void setAll2(String all2) {
         this.all2 = all2;
     }
     public void setEducation(String education) {
         this.education = education;
     }
-    public void setWorkExperience(String workExperience) {
+    public void setWorkExperience(int workExperience) {
         this.workExperience = workExperience;
     }
     public void setArrangedEmployment(String arrangedEmployment) {
         this.arrangedEmployment = arrangedEmployment;
     }
-    public void setAdaptabilitySpouseLanguage(int adaptabilitySpouseLanguage) {
+    public void setAdaptabilitySpouseLanguage(String adaptabilitySpouseLanguage) {
         this.adaptabilitySpouseLanguage = adaptabilitySpouseLanguage;
     }
-    public void setAdaptabilitySpouseEducation(int adaptabilitySpouseEducation) {
+    public void setAdaptabilitySpouseEducation(String adaptabilitySpouseEducation) {
         this.adaptabilitySpouseEducation = adaptabilitySpouseEducation;
     }
-    public void setAdaptabilitySpouseWork(int adaptabilitySpouseWork) {
+    public void setAdaptabilitySpouseWork(String adaptabilitySpouseWork) {
         this.adaptabilitySpouseWork = adaptabilitySpouseWork;
     }
-    public void setAdaptabilityYouEducation(int adaptabilityYouEducation) {
+    public void setAdaptabilityYouEducation(String adaptabilityYouEducation) {
         this.adaptabilityYouEducation = adaptabilityYouEducation;
     }
-    public void setAdaptabilityYouWork(int adaptabilityYouWork) {
+    public void setAdaptabilityYouWork(String adaptabilityYouWork) {
         this.adaptabilityYouWork = adaptabilityYouWork;
     }
-    public void setAdaptabilityYouEmployment(int adaptabilityYouEmployment) {
+    public void setAdaptabilityYouEmployment(String adaptabilityYouEmployment) {
         this.adaptabilityYouEmployment = adaptabilityYouEmployment;
     }
-    public void setAdaptabilityRelatives(int adaptabilityRelatives) {
+    public void setAdaptabilityRelatives(String adaptabilityRelatives) {
         this.adaptabilityRelatives = adaptabilityRelatives;
     }
     public void setScore(int score) {
