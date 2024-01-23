@@ -6,7 +6,12 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Classes {
-	public static ArrayList<Applicant> readFile() throws IOException{
+	private int calculateScore(Object Applicant) {
+		//Do all calculations here
+		return 69;
+	}
+	
+	public ArrayList<Applicant> readFile() throws IOException{
 //		Reads file and returns an array of applicant objects
 		
 		File inputFile = new File("input/dataset-10.txt");
@@ -21,14 +26,18 @@ public class Classes {
 				continue;
 			}
 			Applicant currentApplicant = new Applicant(currentLine);
-			data.add(currentApplicant);
+			int score = calculateScore(currentApplicant);
+			if(score > 68) {
+				currentApplicant.setScore(score);
+				data.add(currentApplicant);
+			}
 		}
 		
 		input.close();
 		return data;
 	}
 	
-	public void writeFile(String[] data) throws IOException{
+	public void writeFile(ArrayList<Applicant> data) throws IOException{
 		FileWriter fw = new FileWriter ("output//test.txt", true);
 		PrintWriter pw = new PrintWriter (fw);
 		
@@ -36,8 +45,13 @@ public class Classes {
 		
 		pw.println("First Name          |Last Name           |  Age|Score");
 		pw.println("--------------------+--------------------+-----+-----");
-		for(int i = 0; i < data.length; i++) {
-			pw.println(data[i]);
+		for(int i = 0; i < data.size(); i++) {	
+			System.out.println("A");
+			pw.printf("%-21s",data.get(i).getFirstName());
+			pw.printf("%-20s",data.get(i).getLastName());
+			pw.printf("%6s",data.get(i).getAge());
+			pw.printf("%6s",data.get(i).getScore());
+			pw.println("");
 		}
 		
 		pw.close();
