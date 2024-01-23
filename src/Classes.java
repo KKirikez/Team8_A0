@@ -38,10 +38,8 @@ public class Classes {
 	}
 	
 	public void writeFile(ArrayList<Applicant> data) throws IOException{
-		FileWriter fw = new FileWriter ("output//test.txt", true);
+		FileWriter fw = new FileWriter ("output//test.txt", false);
 		PrintWriter pw = new PrintWriter (fw);
-		
-		// Find a way to empty the file
 		
 		pw.println("First Name          |Last Name           |  Age|Score");
 		pw.println("--------------------+--------------------+-----+-----");
