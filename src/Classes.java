@@ -38,10 +38,52 @@ public class Classes {
 		fw.close();
 	}
 	
-	public static int languagePoints() {
-//		Calculates and returns language points
-		return 0;
-	}
+	public static int languagePoints(Applicant applicant) {
+    int languageScore = 0;
+
+    // Speaking
+    if (applicant.getSpeak1() == 7) {
+        languageScore += 4;
+    } else if (applicant.getSpeak1() == 8) {
+        languageScore += 5;
+    } else if (applicant.getSpeak1() >= 9) {
+        languageScore += 6;
+    }
+
+    // Listening
+    if (applicant.getListen1() == 7) {
+        languageScore += 4;
+    } else if (applicant.getListen1() == 8) {
+        languageScore += 5;
+    } else if (applicant.getListen1() >= 9) {
+        languageScore += 6;
+    }
+
+    // Reading
+    if (applicant.getRead1() == 7) {
+        languageScore += 4;
+    } else if (applicant.getRead1() == 8) {
+        languageScore += 5;
+    } else if (applicant.getRead1() >= 9) {
+        languageScore += 6;
+    }
+
+    // Writing
+    if (applicant.getWrite1() == 7) {
+        languageScore += 4;
+    } else if (applicant.getWrite1() == 8) {
+        languageScore += 5;
+    } else if (applicant.getWrite1() >= 9) {
+        languageScore += 6;
+    }
+
+    // Secondary Language
+    if (applicant.getAll2() == 1) {
+        languageScore += 4;
+    }
+
+    return languageScore;
+}
 	
 	public static int educationPoints() {
 		int score = 0;
