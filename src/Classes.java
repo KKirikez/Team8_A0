@@ -15,7 +15,8 @@ public class Classes {
 		String[] data = {};
 		
 		while (input.hasNext()) {
-			// will need to write to the array
+			String[] currentLine = input.nextLine().split(" ");
+			System.out.println(currentLine[0]);
 		}
 		
 		input.close();
