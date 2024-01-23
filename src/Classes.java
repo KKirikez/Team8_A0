@@ -44,7 +44,6 @@ public class Classes {
 		pw.println("First Name          |Last Name           |  Age|Score");
 		pw.println("--------------------+--------------------+-----+-----");
 		for(int i = 0; i < data.size(); i++) {	
-			System.out.println("A");
 			pw.printf("%-21s",data.get(i).getFirstName());
 			pw.printf("%-20s",data.get(i).getLastName());
 			pw.printf("%6s",data.get(i).getAge());
