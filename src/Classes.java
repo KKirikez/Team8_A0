@@ -57,7 +57,7 @@ public class Classes {
 	
 	public static int languagePoints(Applicant applicant) {
     int languageScore = 0;
-
+    
     // Speaking
     if (applicant.getSpeak1() == 7) {
         languageScore += 4;
@@ -104,23 +104,26 @@ public class Classes {
 public static int educationPoints(Applicant applicant) {
     String education = applicant.getEducation();
     int educationPoints = 0;
-
-    if ("Secondary school (high school diploma)" == education) {
-        educationPoints = 5;
-    } else if ("One-year degree, diploma or certificate" == education) {
-        educationPoints = 15;
-    } else if ("Two-year degree, diploma or certificate" == education) {
-        educationPoints = 19;
-    } else if ("Bachelor's degree or other programs (three or more years)" == education) {
-        educationPoints = 21;
-    } else if ("Two or more certificates, diplomas, or degrees" == education) {
-        educationPoints = 22;
-    } else if ("Professional degree needed to practice in a licensed profession" == education) {
-        educationPoints = 23;
-    } else if ("University degree at the Master's level" == education) {
-        educationPoints = 23;
-    } else if ("University degree at the Doctoral (PhD) level" == education) {
-        educationPoints = 25;
+    
+    switch(education) {
+    case("Secondary school (high school diploma)"):
+    	educationPoints = 5;
+    case("One-year degree, diploma or certificate"):
+    	educationPoints = 15;
+    case("Two-year degree, diploma or certificate"):
+    	educationPoints = 19;
+    case("Bachelor's degree or other programs (three or more years)"):
+    	educationPoints = 21;
+    case("Two or more certificates, diplomas, or degrees"):
+    	educationPoints = 22;
+    case("Professional degree needed to practice in a licensed profession"):
+    	educationPoints = 23;
+    case("University degree at the Master's level"):
+    	educationPoints = 23;
+    case("University degree at the Doctoral (PhD) level"):
+    	educationPoints = 25;
+    default:
+    	educationPoints = 0;
     }
 
     return educationPoints;
@@ -134,9 +137,9 @@ public static int workExperiencePoints(Applicant applicant) {
 
     if (workExperience == 1) {
         workExperiencePoints = 9;
-    } else if (workExperience == 2 || workExperience == 3) {
+    } else if (workExperience <= 3) {
         workExperiencePoints = 11;
-    } else if (workExperience == 4 || workExperience == 5) {
+    } else if (workExperience <= 5) {
         workExperiencePoints = 13;
     } else if (workExperience > 5) {
         workExperiencePoints = 15;
@@ -153,31 +156,12 @@ public static int agePoints(Applicant applicant) {
         agePoints = 0;
     } else if (age >= 18 && age <= 35) {
         agePoints = 12;
-    } else if (age == 36) {
-        agePoints = 11;
-    } else if (age == 37) {
-        agePoints = 10;
-    } else if (age == 38) {
-        agePoints = 9;
-    } else if (age == 39) {
-        agePoints = 8;
-    } else if (age == 40) {
-        agePoints = 7;
-    } else if (age == 41) {
-        agePoints = 6;
-    } else if (age == 42) {
-        agePoints = 5;
-    } else if (age == 43) {
-        agePoints = 4;
-    } else if (age == 44) {
-        agePoints = 3;
-    } else if (age == 45) {
-        agePoints = 2;
-    } else if (age == 46) {
-        agePoints = 1;
-    } else if (age >= 47) {
+    } else if (age < 47) {
+        agePoints = 47 - age;
+    } else {
         agePoints = 0;
     }
+    	
 
     return agePoints;
 }
@@ -192,17 +176,23 @@ public static int adaptabilityPoints(Applicant applicant) {
 
     if ("true" == applicant.getAdaptabilitySpouseLanguage()) {
         adaptabilityScore += 5;
-    } else if ("true" == applicant.getAdaptabilitySpouseEducation()) {
+    }
+    if ("true" == applicant.getAdaptabilitySpouseEducation()) {
         adaptabilityScore += 5;
-    } else if ("true" == applicant.getAdaptabilitySpouseWork()) {
+    }
+    if ("true" == applicant.getAdaptabilitySpouseWork()) {
         adaptabilityScore += 5;
-    } else if ("true" == applicant.getAdaptabilityYouEducation()) {
+    }
+    if ("true" == applicant.getAdaptabilityYouEducation()) {
         adaptabilityScore += 5;
-    } else if ("true" == applicant.getAdaptabilityYouWork()) {
+    }
+    if ("true" == applicant.getAdaptabilityYouWork()) {
         adaptabilityScore += 10;
-    } else if ("true" == applicant.getAdaptabilityYouEmployment()) {
+    }
+    if ("true" == applicant.getAdaptabilityYouEmployment()) {
         adaptabilityScore += 5;
-    } else if ("true" == applicant.getAdaptabilityRelatives()) {
+    }
+    if ("true" == applicant.getAdaptabilityRelatives()) {
         adaptabilityScore += 5;
     }
 
