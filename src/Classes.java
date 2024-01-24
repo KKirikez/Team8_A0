@@ -100,9 +100,10 @@ public class Classes {
     }
 
     return languageScore;
+	}
 public static int educationPoints(Applicant applicant) {
     String education = applicant.getEducation();
-    int educationPoints;
+    int educationPoints = 0;
 
     if ("Secondary school (high school diploma)" == education) {
         educationPoints = 5;
@@ -129,7 +130,7 @@ public static int educationPoints(Applicant applicant) {
 
 public static int workExperiencePoints(Applicant applicant) {
     int workExperience = applicant.getWorkExperience();
-    int workExperiencePoints;
+    int workExperiencePoints = 0;
 
     if (workExperience == 1) {
         workExperiencePoints = 9;
@@ -146,7 +147,7 @@ public static int workExperiencePoints(Applicant applicant) {
 
 public static int agePoints(Applicant applicant) {
     int age = applicant.getAge();
-    int agePoints;
+    int agePoints = 0;
 
     if (age < 18) {
         agePoints = 0;
@@ -206,4 +207,5 @@ public static int adaptabilityPoints(Applicant applicant) {
     }
 
     return adaptabilityScore >= 10 ? 10 : adaptabilityScore;
+}
 }

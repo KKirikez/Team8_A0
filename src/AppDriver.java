@@ -7,5 +7,6 @@ public class AppDriver {
 		ArrayList<Applicant> applicants = c.readFile();		
 		
 		c.writeFile(applicants);
+		System.out.println("Run Successfully");
 	}
 }
