@@ -170,25 +170,25 @@ public static int arrangedWorkPoints(Applicant applicant) {
 public static int adaptabilityPoints(Applicant applicant) {
     int adaptabilityScore = 0;
 
-    if ("true" == applicant.getAdaptabilitySpouseLanguage()) {
+    if (applicant.getAdaptabilitySpouseLanguage().equals("true")) {
         adaptabilityScore += 5;
     }
-    if ("true" == applicant.getAdaptabilitySpouseEducation()) {
+    if (applicant.getAdaptabilitySpouseEducation().equals("true")) {
         adaptabilityScore += 5;
     }
-    if ("true" == applicant.getAdaptabilitySpouseWork()) {
+    if (applicant.getAdaptabilitySpouseWork().equals("true")) {
         adaptabilityScore += 5;
     }
-    if ("true" == applicant.getAdaptabilityYouEducation()) {
+    if (applicant.getAdaptabilityYouEducation().equals("true")) {
         adaptabilityScore += 5;
     }
-    if ("true" == applicant.getAdaptabilityYouWork()) {
+    if (applicant.getAdaptabilityYouWork().equals("true")) {
         adaptabilityScore += 10;
     }
-    if ("true" == applicant.getAdaptabilityYouEmployment()) {
+    if (applicant.getAdaptabilityYouEmployment().equals("true")) {
         adaptabilityScore += 5;
     }
-    if ("true" == applicant.getAdaptabilityRelatives()) {
+    if (applicant.getAdaptabilityRelatives().equals("true")) {
         adaptabilityScore += 5;
     }
 
