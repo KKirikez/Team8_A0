@@ -9,6 +9,12 @@ public class Classes {
 	private int calculateScore(Object Applicant) {
 		int points = 0;
 		//Call all point returning methods
+	points += languagePoints(applicant);
+    	points += educationPoints(applicant);
+    	points += workExperiencePoints(applicant);
+    	points += agePoints(applicant);
+    	points += arrangedWorkPoints(applicant);
+    	points += adaptabilityPoints(applicant);
 		
 		return points;
 	}
