@@ -7,8 +7,10 @@ import java.util.Scanner;
 
 public class Classes {
 	private int calculateScore(Object Applicant) {
-		//Do all calculations here
-		return 69;
+		int points = 0;
+		//Call all point returning methods
+		
+		return points;
 	}
 	
 	public ArrayList<Applicant> readFile() throws IOException{
@@ -55,44 +57,32 @@ public class Classes {
 		fw.close();
 	}
 	
+	private static int langPointCounter(int input) {
+		int points = 0;
+		if (input == 7) {
+	        points += 4;
+	    } else if (input == 8) {
+	        points += 5;
+	    } else if (input >= 9) {
+	        points += 6;
+	    }
+		return points;
+	}
+	
 	public static int languagePoints(Applicant applicant) {
     int languageScore = 0;
     
     // Speaking
-    if (applicant.getSpeak1() == 7) {
-        languageScore += 4;
-    } else if (applicant.getSpeak1() == 8) {
-        languageScore += 5;
-    } else if (applicant.getSpeak1() >= 9) {
-        languageScore += 6;
-    }
-
+    languageScore += langPointCounter(applicant.getSpeak1());
+    
     // Listening
-    if (applicant.getListen1() == 7) {
-        languageScore += 4;
-    } else if (applicant.getListen1() == 8) {
-        languageScore += 5;
-    } else if (applicant.getListen1() >= 9) {
-        languageScore += 6;
-    }
+    languageScore += langPointCounter(applicant.getListen1());
 
     // Reading
-    if (applicant.getRead1() == 7) {
-        languageScore += 4;
-    } else if (applicant.getRead1() == 8) {
-        languageScore += 5;
-    } else if (applicant.getRead1() >= 9) {
-        languageScore += 6;
-    }
-
+    languageScore += langPointCounter(applicant.getRead1());
+   
     // Writing
-    if (applicant.getWrite1() == 7) {
-        languageScore += 4;
-    } else if (applicant.getWrite1() == 8) {
-        languageScore += 5;
-    } else if (applicant.getWrite1() >= 9) {
-        languageScore += 6;
-    }
+    languageScore += langPointCounter(applicant.getWrite1());
 
     // Secondary Language
     if (applicant.getAll2().equals("yes")) {
