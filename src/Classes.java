@@ -6,10 +6,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Classes {
-	private int calculateScore(Object Applicant) {
+	private int calculateScore(Applicant applicant) {
 		int points = 0;
 		//Call all point returning methods
-	points += languagePoints(applicant);
+		points += languagePoints(applicant);
     	points += educationPoints(applicant);
     	points += workExperiencePoints(applicant);
     	points += agePoints(applicant);
