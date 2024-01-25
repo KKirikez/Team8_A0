@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Classes {
 	private int calculateScore(Applicant applicant) {
+//		Calculates the score for each applicant
 		int points = 0;
 		
 		points += languagePoints(applicant);
@@ -20,7 +21,7 @@ public class Classes {
 	}
 	
 	public ArrayList<Applicant> readFile(String filePath) throws IOException{
-//		Reads file and returns an array of applicant objects
+//		Reads file and returns an arrayList of qualified applicant objects
 		
 		File inputFile = new File(filePath);
 		
@@ -46,6 +47,7 @@ public class Classes {
 	}
 	
 	public void writeFile(ArrayList<Applicant> data, String filePath) throws IOException{
+//		Takes in an arrayList of applicants and writes it to a file with proper formatting
 		FileWriter fw = new FileWriter (filePath, false);
 		PrintWriter pw = new PrintWriter (fw);
 		
@@ -64,6 +66,7 @@ public class Classes {
 	}
 	
 	private static int langPointCounter(int input) {
+//		Helper function for calculating the language points
 		int points = 0;
 		if (input == 7) {
 	        points += 4;
@@ -76,7 +79,8 @@ public class Classes {
 	}
 	
 	public static int languagePoints(Applicant applicant) {
-    int languageScore = 0;
+//    Language points calculation for each category
+	int languageScore = 0;
     
     // Speaking
     languageScore += langPointCounter(applicant.getSpeak1());
@@ -99,7 +103,8 @@ public class Classes {
 	}
 	
 public static int educationPoints(Applicant applicant) {
-    String education = applicant.getEducation();
+//    Calculates education points
+	String education = applicant.getEducation();
     int educationPoints = 0;
     
     switch(education) {
@@ -138,7 +143,8 @@ public static int educationPoints(Applicant applicant) {
 
 
 public static int workExperiencePoints(Applicant applicant) {
-    int workExperience = applicant.getWorkExperience();
+//    Calculates points for work experience
+	int workExperience = applicant.getWorkExperience();
     int workExperiencePoints = 0;
 
     if (workExperience == 1) {
@@ -155,7 +161,8 @@ public static int workExperiencePoints(Applicant applicant) {
 }
 
 public static int agePoints(Applicant applicant) {
-    int age = applicant.getAge();
+//    Calculates points for age
+	int age = applicant.getAge();
     int agePoints = 0;
     
     if (age < 18) {
@@ -172,12 +179,14 @@ public static int agePoints(Applicant applicant) {
 }
 
 public static int arrangedWorkPoints(Applicant applicant) {
-    int arrangedWorkPoints = "true" == applicant.getArrangedEmployment() ? 10 : 0;
+//    Calculates points for arranged work
+	int arrangedWorkPoints = "true" == applicant.getArrangedEmployment() ? 10 : 0;
     return arrangedWorkPoints;
 }
 
 public static int adaptabilityPoints(Applicant applicant) {
-    int adaptabilityScore = 0;
+//    Calculates the adaptability points for the applicant
+	int adaptabilityScore = 0;
 
     if (applicant.getAdaptabilitySpouseLanguage().equals("yes")) {
         adaptabilityScore += 5;
