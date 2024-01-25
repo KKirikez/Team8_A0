@@ -1,2 +1,1406 @@
 First Name          |Last Name           |  Age|Score
 --------------------+--------------------+-----+-----
+Aaron                Grimm                   30    76
+Aaron                Koressel                33    86
+Aaron                Russo                   30    76
+Abigail              Kelley                  57    68
+Abraham              Harper                  58    75
+Abraham              Howard                  26    82
+Ada                  Walker                  61    71
+Adam                 Faruqi                  38    79
+Adam                 Fuchs                   21    75
+Adam                 Gates                   19    86
+Adam                 Wermus                  26    80
+Adam                 Woodbury                34    76
+Addie                Chandler                54    70
+Addielyn             Thurston                18    83
+Adelaide             Carter                  20    74
+Adelaide             Clark                   74    72
+Adison               Scott                   53    70
+Adrian               Owens                   35    83
+Adrian               Bell                    62    75
+Adrian               Maruri                  58    70
+Aida                 Higgins                 50    67
+Aimei                Kutt                    65    69
+AJ                   Zmudosky                21    67
+Alan                 Adams                   47    67
+Alan                 Edwards                 45    71
+Alan                 Browning                45    67
+Alex                 Iles                    64    70
+Alex                 Marino                  36    78
+Alex                 Mohr                    28    84
+Alexandra            Zalucky                 36    81
+Alexandro            Campos                  21    72
+Alfonso              Caparrini               22    87
+Alicea               Lin Engquist            52    68
+Alison               Fernandez               41    75
+Alissa               Hunt                    20    86
+Allen                Fogle                   66    75
+Alma                 Fernandez               31    74
+Alon                 Tamir Winterstein       51    69
+Alvin                Chea                    55    70
+Aly                  Fidiam-Smith            41    71
+Alyssa               Del Vigna               38    78
+Alyssa               Mar                     47    71
+Alyssa               Minko                   51    72
+Alyssa               Murphy                  42    74
+Alyssa               Park                    48    74
+Amanda               Goodpaster              28    78
+Amanda               Wagner                  29    75
+Amandeep             Singh                   32    83
+Amelia               Williams                62    68
+Amit                 Ganapati Baadkar        51    74
+Amy                  Perry                   18    72
+Amy                  H. Chen                 74    70
+Amy                  Hershberger             45    74
+Ana                  Gabriela Lacaze         40    77
+Ana                  Ram'rez Gonz'les        45    69
+Andie                Sanchez                 22    84
+Andrea               Aleman                  65    70
+Andrea               Warren                  27    74
+Andrea               Zomorodian              36    79
+Andreas              Procopiou               55    67
+Andrew               Ryan                    20    86
+Andrew               Jimenez                 43    74
+Andrew               Kinney                  74    69
+Andrew               Page                    62    68
+Andrew               Perez                   45    76
+Andrew               Pienaar                 30    76
+Andrew               Stanton                 20    80
+Andy                 Dat Mai                 18    70
+Andy                 Grisdale                62    69
+Andy                 Yu                      51    71
+Angela               Marie Mistretta         29    67
+Anna                 Cameron                 36    84
+Anne                 Pia                     53    68
+Annette              Wang                    21    81
+Anthony              A. Apodaca              26    86
+Anthony              Baldino                 61    68
+Ariela               Nurko Federov           24    81
+Arjun                Rihan                   23    86
+Arlene               Chan                    33    79
+Armando              Gutierrez Gonzalez      70    68
+Arnold               Grant                   51    73
+Arnold               Wells                   63    70
+Arthur               Mason                   19    67
+Arturo               Aguilar                 29    80
+Athena               Xenakis                 31    81
+Axel                 Geddes                  33    82
+Barney               Jones                   49    71
+Bayani               Inclano                 74    69
+Belinda              Walker                  40    79
+Ben                  Lash                    23    86
+Ben                  Rush                    30    83
+Benjamin             Jacobson                21    81
+Benjamin             Plessala                45    72
+Benjamin             Po An Su                37    78
+Benjamin             Valic                   71    73
+Beril                Pisgin-Saglam           61    74
+Bert                 Berry                   62    71
+Bess                 Daubenmire              52    72
+Beth                 David                   40    74
+Beth                 Sasseen                 70    70
+Beth                 Sullivan                52    73
+Bethany              Jane Hanson             41    81
+Beyonc'              Knowles                 67    73
+Bill                 Shea                    37    78
+Bill                 Sheffler                62    68
+Billie               Eilish                  34    73
+Bing                 Chen                    55    71
+Blake                Henderson               42    72
+Bob                  Morgan                  35    76
+Bob                  Peterson                61    69
+Bob                  Whitehill               66    67
+Brad                 Robinson                33    78
+Brad                 Winemiller              35    77
+Bree                 Jenkins                 55    67
+Brendan              Beesley                 73    75
+Brent                Dienst                  65    67
+Bret                 Parker                  63    71
+Brian                A. Perry                69    70
+Brian                Bair                    56    67
+Brian                Kilgore                 74    68
+Brian                Tanaka                  36    73
+Briana               Lee                     54    70
+Brianna              Chapman                 44    71
+Brianne              Moseley                 42    69
+Britney              Best                    43    76
+Britta               Wilson                  66    69
+Brittany             Plung                   47    71
+Bruce                Craig                   62    77
+Bruce                Dukov                   64    68
+Bruce                Kuei                    20    77
+Bruna                Moniz Berford           49    69
+Burton               Siu                     24    78
+Byron                Bashforth               18    82
+Caleb                Jeon                    20    76
+Candace              Maga'a                  32    85
+Capri                Oliver                  27    72
+Carl                 Cole                    47    73
+Carl                 Ellis                   56    67
+Carl                 Harper                  32    81
+Carlos               Felipe Le'n             35    78
+Carly                Riley                   42    74
+Caroline             Lachanski               35    79
+Caroline             Requierme               46    69
+Carolyn              Mazanec                 28    82
+Carrie               Hobson                  43    72
+Cassandra            Garcia                  22    86
+Catherine            Bennett                 23    72
+Catherine            Luo                     40    72
+Cathleen             Carmean Pienaar         23    78
+Cedric               L. Williams             34    80
+Chad                 Williams                53    68
+Charlie              Lloyd                   48    70
+Charlie              Bisharat                19    79
+Charlie              Kilpatrick              23    85
+Charlie              Tyler                   72    72
+Chelsea              Murray                  22    82
+Cheng                Tse-Sing                24    67
+Cherie               Hammond                 27    78
+Cherise              Miller                  24    83
+Cherry               Miller                  28    77
+Cheryl               Ichikawa Wang           62    72
+Cheryl               Nardi                   42    79
+Chester              Richardson              34    78
+Chris                Fogel                   26    84
+Chris                Kaiser                  68    71
+Chris                Lasell                  51    72
+Chris                Sasaki                  30    77
+Chris                Schoeneman              31    85
+Chris                Wiggum                  39    71
+Chrissa              Urquiola                51    75
+Christian            Hoffman                 37    77
+Christian            J. Simon                28    71
+Christine            Freeman                 48    69
+Christine            Jiang                   53    67
+Christine            Jones                   25    82
+Christine            Wilcock                 21    67
+Christopher          Bolwyn                  37    76
+Christopher          Dennis Lindsay          20    74
+Christopher          Meeker                  33    74
+Christopher          R. Carter               22    86
+Christopher          Sanchez                 31    81
+Chuck                Waite                   30    69
+Chuimei              Ho                      22    80
+Claudia              Chang Sanii             36    83
+Clayborn             Welch                   37    76
+Cody                 Harrington              39    67
+Cody                 Lyon                    64    69
+Colby                Donaldson               23    80
+Colin                Bohrer                  41    69
+Colin                Hayes Thompson          40    78
+Corey                Revilla                 24    80
+Cory                 Ander Knox              43    75
+Cory                 Omand                   33    85
+Courtney             Dingel                  42    77
+Coya                 Elliott                 67    67
+Craig                Foster                  37    74
+Craig                Marshall                36    85
+Dainton              Farrell                 70    67
+Dainton              Hall                    42    74
+Dale                 Martin                  30    78
+Damian               Montano                 34    83
+Dan                  Fornero                 28    82
+Dana                 Donaldson               71    72
+Dana                 Frankoff                31    80
+Dana                 Murray                  26    77
+Daniel               A. Rodriguez            22    80
+Daniel               Campbell                61    68
+Daniel               Chong                   44    71
+Daniel               Garcia                  63    69
+Danielle             Feinberg                38    81
+Danny                Barnhart                25    81
+Darcy                Parker                  45    68
+Darcy                Ryan                    36    71
+Darrin               Fichera                 44    69
+Dave                 Hale                    49    72
+Dave                 Strick                  62    67
+Dave                 Weckl                   33    72
+David                Baraff                  23    80
+David                Batte                   29    85
+David                Boucher                 20    69
+David                G. Yu                   51    70
+David                Lally                   36    82
+David                Lei                     18    78
+David                Luoh                    53    72
+David                M. Laur                 47    73
+David                Rejano Cantero          39    75
+David                Ryu                     26    79
+David                S. Peng                 18    67
+David                Sokolosky               32    76
+David                Sotnick                 37    77
+David                Suther                  60    67
+David                Walther                 46    70
+David                Wehr                    26    75
+Deana                Walker                  22    88
+Deanie               Hickox                  40    76
+Deborah              Clearwaters             24    79
+Deborah              Coleman                 26    87
+Delilah              Smith                   18    83
+Denise               Ream                    44    69
+Derek                Davis                   38    72
+Derek                Williams                73    68
+Desiree              Mourad                  39    81
+Dexter               Owens                   32    80
+Diana                Guardado                18    80
+Dominik              Roberts                 38    73
+Don                  Crum                    22    84
+Donald               Fong                    60    74
+Donald               Foster                  65    69
+Donald               Schmidt                 25    86
+Donna                Quattropani             19    72
+Doug                 Frankel                 24    79
+Doug                 Letterman               73    67
+Doug                 Tornquist               66    67
+Dr.                  Alison Marshall         20    87
+Drew                 Kleven                  29    81
+Duc                  Manh Nguyen             30    73
+Dylan                Hart                    46    68
+Dylan                Sisson                  18    78
+Edgar                Mitchell                24    82
+Edgar                A. Ochoa                30    69
+Edgar                Qui'ones                56    67
+Edith                Mason                   60    68
+Edward               Davis                   67    69
+Edward               Payne                   33    76
+Edward               Luong                   72    77
+Edward               Meares                  49    72
+Edwin                Chang                   48    73
+Edwin                Fabian                  32    82
+Elena                Pinderhughes            53    73
+Elian                Foster                  65    70
+Elian                Scott                   44    68
+Eliot                Smyrl                   36    80
+Elissa               Knight                  58    72
+Ellalorraine         Greely                  33    79
+Ellen                Dubin                   39    70
+Elliot               Simons                  72    68
+Elliott              Cattell                 31    76
+Elyse                Willis                  35    78
+Emily                Harris                  18    82
+Emily                Murphy                  18    73
+Emily                Phillips                21    80
+Emily                Davis                   64    76
+Emily                Sakamoto-Steidl         30    84
+Emily                Weihrich                63    67
+Emma                 Harper                  27    69
+Emma                 Myers                   43    71
+Emma                 Perry                   42    76
+Enrico               Casarosa                54    70
+Eric                 Anderson                31    67
+Eric                 Andraos                 54    69
+Eric                 Byers                   35    78
+Eric                 Pearson                 51    74
+Eric                 Peden                   53    67
+Eric                 Shepard                 30    78
+Eric                 Wegener                 30    86
+Erica                Milsom                  57    70
+Erica                Simons                  26    82
+Erik                 Anderson                68    75
+Erika                Schmidt                 40    67
+Erin                 Fitzgerald              29    87
+Erin                 O'Neal                  20    84
+Erinn                Kathryn Burke           32    84
+Ernesto              Nemesio                 37    85
+Ethan                Dean                    23    75
+Ethan                Loh                     22    78
+Eun-Mee              Ahn                     45    70
+Eva                  Porter                  43    74
+Evan                 Bonifacio               60    71
+Evelyn               Carroll                 22    80
+Falonte              D. Moore                67    74
+Finneas              O'Connell               36    83
+Fiona                Ferguson                64    70
+Fletcher             Sheridan                31    78
+Florian              Hecht                   27    69
+Florrie              Edwards                 50    69
+Fran                 Gonz'lez Garc'a         66    67
+Frank                Yung-Lian Tai           23    81
+Frederick            Baker                   19    78
+Frederick            Evans                   43    78
+Gabriela             Fischer                 26    86
+Gairo                Cuevas                  32    85
+Galyn                Susman                  56    72
+Gary                 Bruins                  55    74
+Geoffrey             Osika                   66    70
+George               Campbell                50    67
+Gerald               White                   72    73
+Gerardo              Osorio                  51    68
+Gerisa               Macale                  27    77
+Glenn                Kasprzycki              63    71
+Gordon               Cameron                 22    73
+Grace                Adams                   35    81
+Grace                Thompson                37    79
+Grade                Oh                      66    67
+Graham               Finley                  40    71
+Graham               Gibson                  18    76
+Grant                Gatzke                  56    71
+Grayson              Villanueva              21    79
+Greg                 Dykstra                 74    74
+Greg                 Gladstone               35    77
+Greg                 Snyder                  71    72
+Gregory              Finch                   31    77
+Gregory              Fletcher                51    70
+Guilherme            Sauerbronn Jacinto      24    71
+Guillaume            Chartier                35    81
+Gus                  Dizon                   40    72
+Guyu                 Liang                   67    72
+Hadley               Gannaway                62    68
+Hailey               Cooper                  38    80
+Haldean              Brown                   51    67
+Hank                 Angeli                  22    75
+Hayley               Iben                    19    78
+Heather              Barnes                  67    69
+Heather              Campbell                50    68
+Heather              Clark                   30    80
+Heather              Eisner                  20    84
+Heidi                Holman                  34    80
+Heidi                Stettner                31    85
+Helen                Hawaz                   23    72
+Henry                Chau                    69    69
+Herman               Wong                    42    77
+Hiroaki              Narita                  18    76
+Hongyan              Yang                    36    76
+Hosuk                Chang                   56    69
+Hsiao                Liu                     18    79
+Hsiao-Hsien          Aaron Lo                51    69
+Hyein                Park                    34    74
+Ian                  Hsieh                   41    68
+Ian                  James Corlett           29    82
+Ian                  Westcott                30    75
+Ivan                 Piesh                   50    67
+Iv'n                 Mauricio Calder'n       50    68
+J.                   Darion Cuevas           30    80
+Jack                 Cheng                   32    78
+Jack                 Fisher                  19    78
+Jack                 Hattori                 29    80
+Jack                 Zhao                    36    82
+Jaclyn               Simon                   40    77
+Jacob                Cole                    44    71
+Jacob                Braun                   38    81
+Jacob                Brooks                  28    67
+Jacob                Richards                38    76
+Jacqueline           Brand                   45    73
+Jaime                Roe                     27    87
+Jalise               Beamon                  23    68
+Jamal                Moore                   29    81
+James                Carter                  27    74
+James                Andereggen              24    88
+James                Burgess                 68    69
+James                Ford Murphy             57    67
+James                Hayden                  45    70
+James                Hong                    23    82
+James                Miller                  42    68
+James                Spencer                 34    87
+James                W. Brown                31    81
+Jamie                Ryan                    23    75
+Jamie                Woolf                   60    69
+Jane                 Snow Cassidy            69    73
+Janel                Drewis                  29    81
+Jaraed               Bello                   70    74
+Jared                Counts                  28    68
+Jared                Fong                    22    68
+Jared                Gonzales                45    75
+Jared                Rawle                   32    73
+Jasmine              Derry                   46    68
+Jasmine              S. Williams             56    68
+Jason                Kim                     27    84
+Jason                Maybaum                 20    80
+Jay                  Carina                  36    75
+Jay-Vincent          Jones                   52    74
+Jeanette             Elizabeth Mckillop      51    74
+Jeeyeon              Park                    27    77
+Jeff                 Atmajian                40    74
+Jeff                 Pidgeon                 32    86
+Jenna                Calvao                  55    69
+Jenna                Spurlock                31    86
+Jenni                Olson                   36    75
+Jenni                Tsoi                    62    67
+Jennifer             Johnston                33    80
+Jennifer             Rowekamp                23    74
+Jennifer             Zaccaro                 33    80
+Jenny                Moussa Spring           41    76
+Jennylyn             Mercado Huynh           72    71
+Jeremie              Talbot                  53    76
+Jeremy               Birn                    22    82
+Jeremy               Lazare                  34    77
+Jeremy               Paton                   63    74
+Jeremy               Slome                   72    73
+Jesse                Hollander               44    75
+Jessica              Anderson                41    67
+Jessica              Guideri                 28    76
+Jessica              Kelly                   72    67
+Jessica              Psy DeLacy              25    87
+Jessica              Rotter                  32    70
+Jessica              Snipes                  65    71
+Jessica              Torres                  27    81
+Jessica              Wan                     21    76
+Jill                 Heffley                 47    71
+Jilliene             Tongson Paras           18    67
+Jim                  Kennedy                 29    78
+Jim                  Morris                  25    75
+Jimmy                Tsai                    34    79
+Joachim              De Deken                23    83
+Joanna               Laurent                 43    78
+Joanne               George                  68    70
+Joao                 Montenegro              42    75
+Jody                 Weinberg                38    75
+John                 Bennett                 56    75
+John                 Chun Chiu Lee           50    67
+John                 Hazelton                60    68
+John                 Lockwood                18    81
+John                 Loy                     34    67
+John                 Roesch                  47    68
+John                 Trauscht                59    71
+John                 Warren                  40    77
+Jon                  Barry                   55    67
+Jon                  Bryant                  30    80
+Jon                  Kull                    34    75
+Jon                  Lewis                   60    71
+Jonah                Blue Laird              19    85
+Jonathan             Garson                  59    72
+Jonathan             Hadden                  57    72
+Jonathan             Mateo Rodriguez         28    83
+Jonathan             Pytko                   24    84
+Jonathan             Vargo                   68    70
+Jonathon             Stevens                 60    67
+Joni                 Superticioso            41    74
+Jordan               Hunt                    23    77
+Jordan               Fisher                  67    68
+Jordan               Rempel                  40    74
+Jordi                O'ate Isal              18    78
+Jose                 Richard Ignacio         36    75
+Josefina             Vergara                 63    68
+Josh                 Grant                   58    72
+Josh                 Levi                    61    70
+Josh                 Minor                   61    67
+Joshua               Mills                   75    71
+Joyce                Turner                  45    71
+Jude                 Brownbill               22    77
+Judith               Angulo                  49    70
+Juei                 Chang                   27    76
+Julia                Cho                     38    75
+Julia                Newhide                 66    68
+Julian               Murphy                  23    67
+Julian               Myers                   56    73
+Julian               Taylor                  31    78
+Julie                Cho                     42    77
+Julien               Schreyer                62    71
+Juliet               Roth                    21    85
+Julio                Quintero                67    71
+Justin               Harris                  21    85
+Kacy                 Naylor                  23    79
+Karen                Huie                    19    83
+Karen                Lucknavalai             36    70
+Kate                 Cooper                  40    74
+Kate                 Hansen-Birnbaum         58    75
+Katherine            Sarafian                24    70
+Kathleen             Cosby                   30    71
+Katrin               Bratland                40    80
+Kayla                D. Harriel              37    80
+Kelci                Hahn                    20    72
+Kellan               Davis                   34    77
+Kellan               Hill                    23    82
+Kellan               Rogers                  33    81
+Kelly                Juarez                  21    67
+Kelsey               Monken                  66    71
+Kelvin               Harper                  22    85
+Kenya                Randle                  64    67
+Kevin                Douglas                 37    74
+Kevin                Andrus                  20    78
+Kevin                Buschiazzo              43    74
+Kevin                Kumar                   24    67
+Kevin                Reher                   43    71
+Kheron               Jones-Kassing           48    72
+Kiera                McAuliffe               26    78
+Kiki                 Mei Kee Poh             57    77
+Kim                  Diaz                    38    77
+Kim                  Mai Guest               38    78
+Kim                  Ross                    55    71
+Kimberly             Patrick                 31    82
+Kirsten              Hill                    51    73
+Kirsten              Watson                  67    70
+Kirsten              Yamaguchi               45    67
+Koko                 Chou                    46    68
+Kori                 Rae                     51    78
+Krissy               Bailey                  29    75
+Krista               Sheffler                46    67
+Kristi               Gamble                  55    69
+Kristifir            Klein                   18    86
+Kristina             Ruud-Hewitt             58    68
+Kristina             Truong                  54    68
+Kristine             Alvarez Javier          35    79
+Kristoffer           Neil Landes             39    69
+Kristophe            Vergne                  20    80
+Kureha               Yokoo                   31    81
+Kurt                 Fleischer               53    74
+Kyle                 Lovrien                 19    82
+Kyle                 Roldan                  47    68
+La'sa                Barros                  49    67
+Lan                  Tang                    41    76
+Lara                 Wickes                  28    78
+Larry                Mah                     30    69
+Lars                 R. Damerow              22    68
+Laura                Finell                  51    73
+Laura                Hainke                  64    71
+Laura                Meyer                   67    72
+Laura                Phillips                26    82
+Laura                Smith Roethe            25    78
+Lauren               Davidson                63    70
+Lauren               Harrold                 74    73
+Laurie               Nguyen Kim              19    74
+Lee                  Ras'                    70    72
+Lee                  Unkrich                 55    70
+Leif                 Pedersen                68    70
+Leila                Chesloff                37    82
+Leonardo             Evans                   34    72
+Leonardo             Ko                      48    68
+Les                  Watters                 24    78
+Leslie               Law                     43    77
+Leslie               Pao                     27    71
+Lexi                 S. King                 28    79
+Lika                 Miyake                  43    68
+Lily                 Kelley                  29    82
+Lily                 Phillips                23    76
+Lily                 Poon Fong-Fong          37    77
+Lily                 Sanfelippo              23    84
+Lindsay              Andrus                  51    74
+Lindsey              Collins                 51    75
+Ling                 Hsu                     63    67
+Lisa                 Chino                   36    80
+Lisa                 Fletcher                25    81
+Lisa                 Fotheringham            66    67
+Liz                  Gazzano                 19    85
+Logan                Hester                  31    72
+Logan                Pearsall                46    75
+Lois                 Banks                   48    73
+Lori                 Tan Chinn               47    68
+Louise               Smythe                  23    77
+Luanne               Homzy                   39    74
+Lucas                Alexander               67    73
+Lucas                Glashoff                27    80
+Lucy                 Laliberte               64    70
+Ludwig               G'ransson               72    72
+Luke                 Morris                  28    67
+Luke                 Cutler Elwood           46    71
+Luke                 Maurer                  43    73
+Luke                 Morgan                  37    75
+Lydia                Montgomery              61    67
+Maddie               Ellis                   34    86
+Maddix               Robinson                47    73
+Madeline             Ormbrek                 63    70
+Madeline             Sharafian               29    75
+Maggie               McFarren                33    75
+Mahyar               Abousaeedi              73    68
+Mallory              Kohut                   55    69
+Manuel               Zenon Rodriguez         51    74
+Mara                 MacMahon                59    71
+Marcia               Dickstein               43    75
+Marco                Antonio Marquez         48    67
+Marco                Castellanos             32    77
+Marcos               Navarrete               26    68
+Marguerite           K. Enright              21    77
+Mariah               Thompson                27    76
+Mariana              Denight                 19    78
+Mariana              Galindo                 21    70
+Mariko               Hoshi                   18    86
+Marina               Capizzi                 65    75
+Marissa              Durham                  43    75
+Mark                 Hessler                 30    74
+Mark                 Joseph                  72    73
+Mark                 Manca                   44    78
+Mark                 Meyer                   32    80
+Mark                 Milla                   24    85
+Mark                 Nielsen                 54    71
+Mark                 Pananganan              53    67
+Mark                 Piretti                 22    78
+Mark                 Robertson               38    73
+Mark                 VandeWettering          23    72
+Marlena              Fecho                   32    83
+Marlon               Castro                  51    67
+Mary                 Smith                   31    79
+Marylou              Jaso                    34    86
+Masha                Ellsworth               23    82
+Matt                 Elser                   70    70
+Matt                 Wilson                  22    80
+Matthew              Bird Waters             50    70
+Matthew              Muhili Lindahl          31    80
+Matthew              Sarubbi                 52    68
+Matthias             Goerner                 20    88
+Mattie               Brehm                   47    69
+Maura                Turner                  61    68
+Max                  Morrison                42    75
+Max                  Brace                   41    80
+Max                  Rodriguez               36    85
+May                  Pon                     65    71
+Maya                 Magub                   49    70
+McKay                Moore-Farley            46    71
+Megan                Alderson                51    74
+Melissa              Bernabei Morrison       51    77
+Melissa              Woods                   22    81
+Melody               Cisinski                44    72
+Meredith             Crawford                30    85
+Meredith             Moulton                 18    84
+Mia                  Stapleton               20    79
+Mia                  Tagano                  27    80
+Michael              Agulnek                 23    80
+Michael              Bidinger                71    67
+Michael              Cabral                  22    80
+Michael              Chia-Wei Chen           30    82
+Michael              Daley                   39    71
+Michael              Douglass, Jr.           72    70
+Michael              Fong                    41    73
+Michael              Galbraith               57    70
+Michael              K. O'Brien              62    72
+Michael              Lorenzen                35    81
+Michael              Sauls                   36    79
+Michael              Stewart Johnson         68    75
+Michael              Stocker                 44    79
+Michael              Wu                      68    67
+Michael              Yates                   39    80
+Michelle             Liu Chung               74    69
+Michelle             Lopez                   33    88
+Michelle             Simons                  25    87
+Mike                 Cameron                 74    68
+Mike                 Gessini                 61    71
+Mike                 H. Mahony               57    68
+Mike                 Stern                   36    79
+Mike                 Valerio                 34    69
+Miranda              Carroll                 28    81
+Miranda              Douglas                 67    73
+Miranda              Roberts                 27    78
+Mitra                Shahidi                 73    69
+Molly                Glover                  37    83
+Molly                Jones                   28    74
+Molly                Speacht                 31    81
+Momo                 LeBeau                  75    73
+Monica               Sonand                  37    76
+Morgan               Karadi                  22    76
+Morgan               Miars                   44    67
+Myra                 Gibson                  35    77
+Nancy                Anaisodin Dinh          57    67
+Nancy                Howard                  41    77
+Nat                  McLaughlin              57    68
+Natalie              Cunningham              18    80
+Natalie              Leggett                 68    74
+Natalie              Lyon                    18    82
+Nathaniel            Smith                   28    80
+Ned                  Russell                 25    82
+Neil                 Helm                    31    86
+Nelson               Bohol                   67    72
+N'stor               Benito Fernandez        19    84
+Ngawang              Samphel                 39    69
+Nic                  Bishop                  25    75
+Nicholas             C. Smith                33    78
+Nicholas             Docter                  55    73
+Nick                 Balian                  67    68
+Nick                 Porcino                 54    67
+Nico                 Abondolo                44    68
+Nicole               Johnson                 73    68
+Nicole               Lloyd                   41    73
+Nicole               Paradis Grindle         71    73
+Ni'o                 Ellington               37    81
+Oliver               Walker                  37    80
+Oliver               Meiseberg               73    71
+Olivia               Carter                  45    72
+Orion                Lee                     21    79
+Osafo                Barker                  37    82
+Otito                Greg-Obi                63    73
+Owen                 Martin                  29    78
+Patrick              Campbell                70    71
+Patrick              Angell                  62    68
+Patrick              James                   24    73
+Patty                Bonfilio                58    70
+Paul                 Chideya                 20    78
+Paul                 Francisco Diaz          34    78
+Paul                 Kubala                  38    74
+Paula                Assadourian             24    82
+Pauline              Chu                     48    69
+Pedro                Eustache                61    76
+Per                  Christensen             32    82
+Pete                 Anthony                 52    70
+Pete                 Docter                  28    84
+Peter                Nye                     35    84
+Peter                Plackowski              50    71
+Peter                Roe                     41    77
+Peter                Rotter                  21    77
+Peter                Schreiber               57    70
+Peter                Sohn                    69    69
+Peter                Ward                    20    86
+Philip               Graham                  30    70
+Philip               Metschan                75    70
+Phillip              Levy                    37    82
+Phyllis              Ting                    70    71
+Prescila             de Borthole Vertamatti    25    87
+Rachel               H. Slansky              70    72
+Rachel               Tharp                   65    69
+Raja                 Bala                    63    72
+Rami                 Kasim                   48    70
+Raquel               Bordin                  19    84
+Ray                  Strickler               28    83
+Rebecca              Holmes                  62    73
+Rebecca              Warren                  42    79
+Reema                Batnagar                66    73
+Renee                Tam                     33    78
+Ricardo              Nadu                    64    69
+Ricardo              Pacheco Solano          33    68
+Richard              Guo                     69    68
+Richard              Kirk                    42    68
+Richard              Yoshioka                55    69
+Rob                  Cassie                  29    84
+Rob                  Fusari                  24    74
+Rob                  Kinelski                32    71
+Robb                 Donovan                 56    67
+Robbin               Huntingdale             52    69
+Robert               Gray                    58    70
+Robert               Graf                    61    75
+Robert               Hamrick                 28    81
+Robert               Kinkead                 68    68
+Robert               Kosai                   20    76
+Roberto              Cani                    44    70
+Robin                Leigh                   21    85
+Robyn                Rindge                  52    74
+Roger                Gould                   58    71
+Roger                Juli' Satorra           32    82
+Roland               Robinson                21    79
+Rona                 Francisco Li            40    79
+Rosalie              Chiang                  33    77
+Rosana               Kot                     52    70
+Rosie                Cole                    39    75
+Rosie                Wacha                   60    71
+Royce                Wesley                  56    69
+Rubie                Smith                   68    69
+Ryan                 Adams                   27    85
+Ryan                 Hall                    55    67
+Ryan                 Bujnowicz               31    82
+Ryan                 Darkes                  41    74
+Ryan                 Michero                 63    71
+Samantha             Benedetti               43    69
+Samuel               Le                      54    72
+Samuel               Lehmer                  53    70
+Sandra               Karpman                 64    71
+Sandra               Oh                      60    67
+Sara                 Hanlan                  55    69
+Sara                 Mann                    26    72
+Sara                 Sharp                   67    75
+Sarah                Boggs                   64    74
+Sarah                Dunham                  67    70
+Sarah                Forcier                 50    67
+Sarah                Hutchinson              38    79
+Sarah                Thornblade              53    71
+Saunder              Choi                    36    73
+Sayoko               Wu                      65    68
+Scott                Curtis                  18    74
+Scott                Morse                   43    70
+Sean                 T. Krishnan             37    69
+Searit               Kahsay Huluf            66    70
+Selen                Atiker                  70    71
+Serena               Dettman                 36    86
+Seth                 Freeman                 56    69
+Seth                 Van Booven              64    77
+Shalini              Vijayan                 71    68
+Shannon              Wood                    64    70
+Shari                Villarde                28    73
+Sharon               Dovas                   40    68
+Shaun                Chacko                  51    73
+Shawn                Mann                    29    81
+Shawn                Zhou                    54    73
+Shelley              Roden                   24    85
+Shiho                Tilley                  56    75
+Shubha               Jagannatha              64    72
+Sienna               Spencer                 36    81
+Sonoko               Konishi                 38    75
+Sophia               Bailey                  50    74
+Sophia               Mitchell                61    73
+Sophia               Borich                  33    86
+Spike                Fowler                  39    76
+Staphon              Arnold                  18    76
+Stefan               Gronsky                 44    72
+Stefan               Schulze                 75    68
+Stephanie            Gee Galaviz             33    80
+Stephanie            Kelly                   34    77
+Stephanie            Pham Aganon             24    78
+Stephen              Kujala                  38    76
+Stephen              Urata                   32    87
+Stephen              Wong                    25    67
+Steve                Bloom                   20    77
+Steve                Karski                  50    71
+Steve                Mason                   65    72
+Steven               Scott                   27    85
+Steven               Holtman                 64    68
+Stewart              Pomeroy                 34    76
+Sunmee               Joh                     72    69
+Sunya                Boonyatera              35    87
+Sureena              Mann                    43    80
+Susan                Salituro                27    85
+Susanne              Rublein                 33    67
+Suzanne              Waters                  34    78
+Sydney               Crawford                53    75
+Sydney               Thomas                  28    70
+Sylvia               Gray Wong               66    73
+Tadahiro             Uesugi                  58    69
+Tamara               Hatwan                  28    79
+Tatsuro              Kiuchi                  32    81
+Teag                 Reaves                  18    78
+Ted                  Jones                   60    75
+Ted                  Atkatz                  30    72
+Teresa               Falcone                 60    67
+Teresa               Nord Storhoff           40    75
+Teresa               Stanislav               71    71
+Terri                Douglas                 19    78
+Terry                Lee Moseley             43    78
+Tess                 Cameron                 32    78
+Thidaratana          Annee Jonjai            37    82
+Thomas               Gonzales                28    78
+Thomas               Hahn                    36    85
+Thomas               Harte                   48    68
+Tiana                Craig                   42    68
+Tiana                Ellis                   22    80
+Tiffany              Lopez                   71    70
+Tiffany              Ribera-McKay            24    80
+Tim                  Best                    18    76
+Tim                  Speltz                  41    78
+Timothy              Loo                     59    68
+Timothy              Palmer                  33    76
+Timothy              Zohr                    48    74
+Tlaloc               Alvarez                 22    77
+Toan-Vinh            Le                      34    78
+Tom                  Gately                  37    75
+Tom                  Miller                  40    74
+Tom                  Nettleship              36    88
+Tony                 Rosenast                25    83
+Tracey               Walker                  36    72
+Trevor               Jimenez                 31    72
+Tricia               Andres                  23    85
+Trina                M. Roy                  65    78
+Trinity              Jo-Li Bliss             33    83
+Tristan              Allerick Chen           20    74
+Tsang                Pui-Yee                 42    76
+Tyler                Fazakerley              44    75
+Uma                  Havaligi                18    76
+Valerie              Hathaway                32    80
+Vanessa              Russell                 22    80
+Venkateswaran        Krishna                 40    71
+Ver'nica             Toledo                  49    74
+Victoria             Manley Thompson         23    83
+Vince                Caro                    32    76
+Violet               Armstrong               18    76
+Violet               Grace Schaffer          20    82
+Vivienne             Rutherford              71    70
+Vladimir             Kooperman               31    72
+Wade                 Culbreath               57    69
+Wai                  Ching Ho                60    68
+Walter               Allen                   43    71
+Warren               Latimer                 36    80
+Wayne                Bergeron                58    70
+Wen-Chin             Hsu                     37    83
+Wendell              Lee                     55    72
+Wendy                Chen                    35    82
+Wendy                Dale Tanzillo           47    67
+Wendy                Heffner                 68    72
+William              Owens                   22    82
+William              Starling                34    81
+Witawat              Bik Rungjiratananon     36    73
+Wynton               Grant                   70    73
+Xavier               Riffault                56    67
+Ye                   Won Cho                 44    70
+Yu                   Nira Liu                18    70
+Yuko                 Okumura                 35    72
+Yun                  Lien                    71    68
+Yung-Han             Chang                   26    80
+Zac                  Rae                     47    70
+Zach                 Dellinger               75    69
+Zaruhi               Galstyan                67    73
+Zena                 Weber                   44    73
+Aarif                Sheikh                  72    73
+Abbie                Larkin                  32    71
+Ada                  Hegerberg               39    76
+Aditya               Chopra                  63    69
+Agness               Musase                  35    77
+'ine                 O'Gorman                74    72
+Aitana               Bonmat'                 49    70
+Akshaye              Widhani                 64    68
+Alana                Cook                    35    83
+Alanna               Kennedy                 65    75
+Alba                 Redondo                 24    76
+Aldana               Cometi                  50    71
+Aldrith              Quintero                29    78
+Alessia              Russo                   45    78
+Alex                 Chidiac                 65    70
+Alex                 Morgan                  44    71
+Alexandra            Popp                    24    71
+Alexia               Putellas                67    69
+Ali                  Riley                   21    76
+Alisha               Lehmann                 28    73
+Allyson              Swaby                   39    71
+Amalie               Eikeland                41    78
+Amalie               Vangsgaard              59    67
+Amanda               Ilestedt                44    74
+Amber                Barrett                 22    74
+Amira                Arfaoui                 21    81
+Ana                  Borges                  31    89
+Ana                  Capeta                  38    69
+Ana                  Maria Crnogor?evi?      25    71
+Ana                  Rute                    25    75
+Ana                  Sei'a                   33    67
+Andile               Dlamini                 42    79
+Andreia              Jacinto                 38    82
+Andressa             Alves                   21    78
+Angela               Baron                   55    70
+Anja                 Sonstevold              41    77
+Anna                 Leat                    30    88
+Annalie              Longo                   35    81
+Annamaria            Serturini               32    85
+Aoba                 Fujino                  51    70
+Arianna              Caruso                  42    68
+Ashley               Lawrence                47    77
+Ashley               Sanchez                 52    71
+Asisat               Oshoala                 35    87
+Assia                Zouhair                 42    69
+Aubrey               Kingsbury               73    75
+Avell                Chitundu                69    72
+Bae                  Ye-bin                  33    84
+Bambanani            Mbane                   63    69
+Barbara              Bonansea                52    72
+Batcheba             Louis                   54    70
+Benedetta            Glionna                 29    73
+Benedetta            Orsi                    63    76
+Bethany              England                 46    71
+Betina               Petit-Frere             69    70
+Betsy                Hassett                 70    74
+Bongeka              Gamede                  38    75
+Bosco                Martis                  23    68
+C.J.                 Bott                    68    71
+Caesar               Gonsalves               36    75
+Camila               G'mez Ares              33    78
+Carleigh             Frilles                 70    71
+Carolina             Arias                   42    74
+Caroline             Seger                   59    72
+Casey                Murphy                  73    75
+Casey                Phair                   36    80
+Cata                 Coll                    43    71
+Catalina             Estrada                 21    78
+Catalina             P'rez                   34    76
+Catalina             Usme                    51    67
+Catarina             Amado                   49    70
+Catherine            Musonda                 25    77
+Cecilia              Salvai                  34    84
+Cecilie              Fiskerstrand            55    71
+Chandler             McDaniel                23    82
+Chantelle            Swaby                   46    73
+Chen                 Gao                     44    70
+Chengshu             Wu                      74    78
+Cheyna               Matthews                28    79
+Chiamaka             Nnadozie                73    69
+Chiara               Beccari                 34    74
+Chika                Hirao                   19    79
+Chloe                Kelly                   65    74
+Chloe                Mustaki                 26    80
+Cho                  So-hyun                 33    84
+Choo                 Hyo-joo                 37    81
+Christine            Sinclair                27    71
+Chun                 Ga-ram                  60    67
+Ciara                Grant                   30    79
+Clara                Mat'o                   24    73
+Clare                Hunt                    58    71
+Clare                Polkinghorne            61    71
+Claudia              Bunge                   47    71
+Claudia              Zornoza                 66    74
+Constance            Picaud                  22    67
+Cortnee              Vine                    19    83
+Courtney             Nevin                   60    74
+Craig                Macrae                  42    74
+Cristiana            Girelli                 67    70
+Cristin              Granados                18    79
+Crystal              Dunn                    61    72
+Daiana               Falf'n                  33    82
+Daisy                Cleverley               64    71
+Dalila               Ipp'lito                48    71
+Damaris              Egurrola                52    70
+Daniela              Arias                   59    73
+Daniela              Caracas                 74    73
+Daniela              Solera                  32    78
+Danielle             Etienne                 40    72
+Danielle             van de Donck            21    86
+Dao                  Thi Kieu Oanh           40    70
+Daphne               van Domselaar           68    67
+Dayana               Pierre-Louis            45    71
+Desire               Oparanozie              20    82
+Deysire              Salazar                 44    74
+Diana                Ospina                  59    68
+Diana                Silva                   66    75
+Diane                Caldwell                73    68
+Dolores              Silva                   46    69
+Drew                 Spence                  35    74
+Duda                 Sampaio                 28    73
+Duong                Thi Van                 30    81
+Elena                Linari                  37    79
+Eliana               St'bile                 36    80
+Elin                 Rubensson               45    75
+'lisa                De Almeida              64    73
+Elodie               Nakkach                 74    73
+Emilie               Haavi                   56    67
+Emilie               Valenciano              18    80
+Emily                Fox                     59    73
+Emily                van Egmond              54    67
+Emma                 Snerle                  74    68
+Enith                Salon                   65    70
+'rica                Lonigro                 22    85
+Erika                Hernandez               40    73
+Esme                 Morgan                  39    77
+Esmee                Brugts                  32    70
+Estefan'a            Banini                  21    78
+Estelle              Cascarino               62    70
+Esther               Banda                   18    75
+Esther               Okoronkwo               18    80
+Eugenie              Le Sommer               44    69
+Eva                  Navarro                 64    70
+Evarine              Katongo                 67    71
+Evelyne              Viens                   32    79
+Farissa              Cordoba                 36    76
+Fatima               Gharbi                  41    75
+Fatima               Tagnaout                35    70
+Felicitas            Rauch                   31    78
+Fikile               Magama                  49    69
+Filippa              Angeldahl               28    73
+Florencia            Bonsegundo              68    67
+Florsie              Darlina Joseph          47    68
+Francesca            Durante                 57    69
+Francisca            Ordega                  22    80
+Frederikke           Th'gersen               51    76
+Frida                Maanum                  62    74
+Fridolina            Rolfo                   45    75
+Gabi                 Nunes                   55    70
+Gabi                 Rennie                  19    79
+Gabriela             Guill'n                 36    77
+Gabriela             Salgado                 18    77
+Gabriela             Urue'a                  35    81
+Ganesh               Gangadharan             61    68
+Georgia              Stanway                 36    76
+Ghizlane             Chebbak                 41    75
+Gift                 Monday                  39    79
+Grace                Geyoro                  45    77
+Grace                Jale                    73    71
+Guro                 Bergsvand               24    78
+Guro                 Pettersen               31    77
+Guro                 Reiten                  60    70
+Haiyan               Wu                      65    67
+Hali                 Long                    20    73
+Halimatu             Ayinde                  23    74
+Hana                 Takahashi               20    87
+Hanane               Ait El Haj              29    83
+Hanna                Lundkvist               57    68
+Hannah               Hampton                 52    67
+Hannah               Wilkinson               40    70
+Havana               Solaun                  18    80
+Hayley               Raso                    32    85
+Heather              Payne                   27    80
+Hellen               Chanda                  70    72
+Hikaru               Naomoto                 48    76
+Hildah               Magaia                  33    80
+Hina                 Sugita                  22    87
+Hinata               Miyazawa                46    67
+Hoang                Thi Loan                47    68
+Hong                 Hye-ji                  21    75
+Hongyan              Pan                     66    71
+Huan                 Xu                      43    71
+Ibtissam             Jraidi                  61    69
+Ifeoma               Onumonu                 55    68
+Indiah-Paige         Riley                   44    74
+Ines                 Arouaissa               39    83
+In's                 Pereira                 44    75
+Ingrid               Syrstad                 49    72
+Ireen                Lungu                   69    70
+Irene                Guerrero                74    71
+Isibeal              Atkinson                36    82
+Ivana                Andr's                  74    67
+Ivonne               Chac'n                  41    78
+Jacintha             Weimar                  56    73
+Jaclyn               Sawicki                 58    70
+Jacqui               Hand                    48    68
+Jang                 Sel-ji                  38    73
+Janni                Thomsen                 69    73
+Jennifer             Echegini                74    67
+Jennifer             Falk                    22    88
+Jess                 Carter                  40    75
+J'ssica              Silva                   64    67
+Jessie               Fleming                 75    69
+Jessika              Cowart                  22    84
+Ji                   So-yun                  57    69
+Jiahui               Lou(Wuhan               68    74
+Jiali                Tang                    59    68
+Joana                March'o                 21    88
+Jorelyn              Carabali                44    69
+Judith               Soko                    71    69
+Julia                Grosso                  43    71
+Julia                Stierli                 46    78
+Julie                Ertz                    71    74
+Julieta              Cruz                    46    72
+Jun                  Endo                    25    85
+Kadeisha             Buchanan                19    74
+Kadidiatou           Diani                   56    69
+Kailen               Sheridan                45    68
+Kaiya                Jota                    43    67
+Kalyssa              Van Zanten              62    69
+Kameron              Simmonds                72    74
+Karina               S'vik                   37    78
+Karla                Riley                   29    76
+Katherine            Castillo                64    71
+Kathrin              Hendrich                32    73
+Kathrine             K'hl                    54    67
+Kathrine             Larsen                  30    84
+Katie                McCabe                  19    82
+Katie                Zelem                   74    75
+Katrina              Gorry                   53    70
+Katrina              Guillou                 52    73
+Katrine              Veje                    70    68
+Kaylin               Swart                   39    71
+Kenza                Chapelle                36    84
+Kenza                Dali                    68    69
+Kerly                Theus                   69    72
+Kethna               Louis                   57    67
+Khadija              ER-RMICHI               21    73
+Khadija              Shaw                    31    86
+Kholosa              Biyana                  20    83
+Khong                Thi                     25    81
+Kika                 Nazareth                33    70
+Kiko                 Seike                   73    72
+Kim                  Hye-ri                  56    74
+Kim                  Yun-ji                  71    73
+Klara                Buehl                   54    69
+Konya                Plummer                 31    85
+Kosovare             Asllani                 44    67
+Kristie              Mewis                   18    82
+Laia                 Codina                  24    77
+Lara                 Esponda                 37    71
+Lara                 Marti                   65    71
+Laura                Coombs                  35    74
+Laura                Freigang                36    72
+Laura                Giuliani                22    83
+Lauren               Hemp                    31    89
+Lauren               James                   22    80
+Laurie               Batista                 42    68
+Laurina              Fazer                   74    71
+Lea                  Le Garrec               32    80
+Lee                  Geum-min                31    79
+Lee                  Young-ju                22    82
+Lena                 Lattwein                32    80
+Lena                 Sophie                  54    71
+Lene                 Sophie Oberdorf         49    69
+Leticia              Izidoro                 53    74
+Lia                  W'lti                   18    77
+Lily                 Agg                     63    69
+Lim                  Seon-joo                60    71
+Lina                 Hurtig                  30    82
+Lina                 Yang                    57    67
+Linda                Caicedo                 51    68
+Linda                Sembrant                45    70
+Lindsey              Horan                   67    67
+Lineth               Beerenstein             56    74
+Lineth               Cedeno                  31    80
+Lingwei              Yao                     48    72
+Linlin               Wang                    34    79
+Linyan               Zhang                   40    72
+Lisa                 Boattin                 27    86
+Livia                Peng                    64    73
+Liya                 Brooks                  51    71
+Liz                  Anton                   48    67
+Lorena               Bedoya                  29    77
+Lorena               Ben'tez                 39    81
+Lotte                Wubben-Moy              43    78
+Louise               Quinn                   48    71
+Luana                B'hler                  39    80
+L'cia                Alves                   49    73
+Lucia                Di                      37    80
+Lucy                 Di Guglielmo            25    71
+Luong                Thi                     29    84
+Lydia                Williams                35    67
+Lynn                 Wilms                   21    89
+Madelen              Janogy                  39    68
+Ma'lle               Lakrar                  49    72
+Magdalena            Eriksson                55    72
+Maja                 Bay                     35    80
+Malia                Steinmetz               38    81
+Mamta                Anand                   18    83
+Manas                Choudhury               49    68
+Manuela              Giugliano               60    69
+Manuela              Vanegas                 42    71
+Marcela              Restrepo                22    78
+Maren                Mjelde                  48    76
+Margaret             Belemu                  29    84
+Mar'a                Camila                  48    78
+Mar'a                Camila Reyes            68    74
+Mar'a                Paula Salas             35    75
+Mariana              Benavides               21    81
+Mariana              Larroquette             60    71
+Mariela              Campos                  46    67
+Marina               Hegering                65    71
+Marion               Rey                     59    68
+Marta                Cox                     27    78
+Martha               Tembo                   55    73
+Martina              Lenzini                 32    81
+Mary                 Earps                   40    77
+Mary                 Fowler                  58    67
+Mary                 Wilombe                 39    78
+Mayra                Ram'rez                 38    69
+Megan                Connolly                57    69
+Megan                Rapinoe                 47    69
+Megan                Walsh                   48    71
+Melissa              Herrera                 21    76
+Mengwen              Li                      42    69
+Mengyu               Shen                    26    84
+Merel                van                     22    68
+Meriame              Terchoun                62    68
+Merle                van Dongen              25    76
+Michaela             Foster                  74    67
+Michelle             Alozie                  66    67
+Milan                Pierre-Jerome           19    80
+Millie               Bright                  21    84
+Milly                Clegg                   27    83
+Mina                 Tanaka                  34    78
+Miriam               Mayorga                 36    71
+Misa                 Rodr'guez               43    72
+Miyabi               Moriya                  40    83
+Moeka                Minami                  70    74
+M'nica               Ramos                   52    70
+Moon                 Mi-ra                   23    81
+Nahomie              Ambroise                21    85
+Najat                Badri                   20    81
+Naomie               Feller                  20    79
+Nerila               Mondesir                45    67
+Nesryne              El                      26    75
+Ngan                 Thi                     22    81
+Nguyen               El Chad                 53    67
+Nguyen               Thi Van Su              72    67
+Nguyen               Thi Bich Thuy           21    74
+Nguyen               Thi Thanh Nha           20    84
+Niamh                Thi Thug Hang           51    67
+Niamh                Thi Tuyet Dung          22    83
+Nichelle             Prince                  40    67
+Nicole               de                      58    67
+Niharika             de Obaldia              31    81
+Noelle               Maritz                  74    70
+Noko                 Olivia Ganthier         46    75
+Noxolo               Cesane                  23    79
+Ochumba              Oseke                   41    73
+Olivia               Chance                  64    69
+Olivia               McDaniel                25    81
+Olivia               Smith                   45    70
+Oluwatosin           Demehin                 74    74
+Osinachi             Ohale                   29    77
+Padam                Bhushan                 27    84
+Paige                Satchell                18    73
+Patr'cia             Morais                  27    75
+Paulina              Gramaglia               36    80
+Pauline              Peyraud-Magnin          65    68
+Pernille             Harder                  39    75
+Peyton               McNamara                74    71
+Qiaozhu              Chen                    41    75
+Quinley              Quezada                 39    77
+Racheal              Kundananji              38    80
+Rachele              Baldi                   25    80
+Ramona               Bachmann                32    81
+Raquel               Rodr'guez               21    77
+Rasheedat            Ajibade                 30    68
+Rebeca               Espinosa                62    67
+Rebecca              Spencer                 28    80
+Rebekah              Stott                   37    79
+Refiloe              Jane                    69    68
+Ria                  Percival                25    81
+Rikke                Marie Madsen            55    69
+Riley                Tanner                  50    68
+Rion                 Ishikawa                33    76
+Risa                 Shimizu                 36    80
+Robyn                Moodaly                 29    83
+Roc'o                G'lvez                  19    83
+Rose                 Lavelle                 50    68
+Roseline             Eloissaint              63    68
+Rosella              Ayane                   55    70
+Roselord             Borgella                71    72
+Ruesha               Littlejohn              64    72
+Ruthny               Mathurin                39    81
+Ryley                Bugay                   52    67
+Ryu                  Ji-soo                  54    71
+Saki                 Kumagai                 30    80
+Sakina               Karchaoui               62    75
+Sakina               Ouzraoui                40    80
+Salma                Paralluelo              25    70
+Sam                  Kerr                    39    77
+Sandra               Sep'lveda               40    68
+Sandrine             Mauron                  21    71
+Sanne                Troelsgaard             23    79
+Sara                 Daebritz                55    69
+Sara                 Eggesvik                18    79
+Sara                 Horte                   71    71
+Sara                 Thrige                  45    76
+Sarah                Kassi                   20    80
+Sarina               Bolden                  57    70
+Sasha                Fabrega                 66    70
+Satchith             Paulose                 71    69
+Schiandra            Gonzalez                37    73
+Selma                Bacha                   75    68
+Seraina              Piubel                  72    69
+Shaleena             Nathani                 24    84
+Shanoo               Sharma                  31    85
+Sheika               Scott                   70    67
+Shelina              Zadorsky                64    72
+Sherida              Spitse                  30    87
+Sherly               Jeudy                   65    71
+Shuang               Wang                    48    67
+Shwendesky           Joseph                  61    69
+Siddharth            Anand                   37    71
+Signe                Bruun                   40    78
+Silvia               Rebelo                  25    77
+Sinead               Farrelly                21    70
+Siomala              Mapepa                  70    74
+Sjoeke               Nuesken                 49    69
+Sofia                Bouftini                33    84
+Sofia                Cantore                 24    79
+Sofia                Jakobsson               32    77
+Sofie                Svava                   35    83
+Solai                Washington              39    81
+Solene               Durand                  63    72
+Sophie               Roman                   18    80
+Sophie               Schmidt                 63    71
+Stefanie             van                     27    74
+Sunil                Rodrigues               29    72
+Susan                Banda                   72    67
+Sydney               Lohmann                 22    76
+Tabita               Joseph                  66    71
+Tahnai               Annis                   51    73
+Tameka               Yallop                  72    70
+Tatiana              Pinto                   25    72
+Teagan               Micah                   22    83
+Telma                Encarna''o              34    74
+Thai                 Thi                     70    69
+Thea                 Bjelde                  37    77
+Tiernny              Wiltshire               58    67
+Tiisetso             Makhubela               58    72
+Tochukwu             Oluehi                  60    72
+Tran                 Thi Kim Thanh           73    70
+Tran                 Thi Thu                 35    77
+Trinity              Thi Thuy Nga            47    72
+Trudi                Thi Thuy Trang          26    74
+Vaibhavi             Merchant                35    80
+Valentina            Cernoia                 52    73
+Valentina            Giacinti                52    72
+Vanesa               Santana                 58    69
+Vanessa              Del Campo               41    72
+Vanina               Correa                  51    67
+Vast                 Phiri                   54    74
+Vicki                Becho                   50    68
+Victoria             Esson                   21    79
+Viviane              Asseyi                  43    78
+Wendie               Renard                  45    67
+Wendy                Natis                   50    69
+Wendy                Shongwe                 54    71
+Wieke                Kaptein                 19    67
+Yamila               Rodr'guez               32    73
+Yasmin               M'Rabet                 41    71
+Yenith               Bailey                  29    82
+Yewande              Balogun                 59    69
+Yui                  Hasegawa                18    80
+Yuyi                 Xiao                    24    86
+Zecira               Musovic                 24    83
+Zineb                Redouani                57    67

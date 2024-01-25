@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Classes {
 	private int calculateScore(Applicant applicant) {
 		int points = 0;
-		//Call all point returning methods
+		
 		points += languagePoints(applicant);
     	points += educationPoints(applicant);
     	points += workExperiencePoints(applicant);
@@ -19,14 +19,15 @@ public class Classes {
 		return points;
 	}
 	
-	public ArrayList<Applicant> readFile() throws IOException{
+	public ArrayList<Applicant> readFile(String filePath) throws IOException{
 //		Reads file and returns an array of applicant objects
 		
-		File inputFile = new File("input/dataset-10.txt");
+		File inputFile = new File(filePath);
 		
 		Scanner input = new Scanner (inputFile);
 		
 		ArrayList<Applicant> data = new ArrayList<>();
+		
 		
 		while (input.hasNext()) {
 			String[] currentLine = input.nextLine().split("\t");
@@ -35,18 +36,17 @@ public class Classes {
 			}
 			Applicant currentApplicant = new Applicant(currentLine);
 			int score = calculateScore(currentApplicant);
-			if(score > 68) {
+			if(score > 66) {
 				currentApplicant.setScore(score);
 				data.add(currentApplicant);
 			}
 		}
-		
 		input.close();
 		return data;
 	}
 	
-	public void writeFile(ArrayList<Applicant> data) throws IOException{
-		FileWriter fw = new FileWriter ("output//test.txt", false);
+	public void writeFile(ArrayList<Applicant> data, String filePath) throws IOException{
+		FileWriter fw = new FileWriter (filePath, false);
 		PrintWriter pw = new PrintWriter (fw);
 		
 		pw.println("First Name          |Last Name           |  Age|Score");
@@ -97,6 +97,7 @@ public class Classes {
 
     return languageScore;
 	}
+	
 public static int educationPoints(Applicant applicant) {
     String education = applicant.getEducation();
     int educationPoints = 0;
@@ -104,22 +105,31 @@ public static int educationPoints(Applicant applicant) {
     switch(education) {
     case("Secondary school (high school diploma)"):
     	educationPoints = 5;
+    	break;
     case("One-year degree, diploma or certificate"):
     	educationPoints = 15;
+    	break;
     case("Two-year degree, diploma or certificate"):
     	educationPoints = 19;
+    	break;
     case("Bachelor's degree or other programs (three or more years)"):
     	educationPoints = 21;
+    	break;
     case("Two or more certificates, diplomas, or degrees"):
     	educationPoints = 22;
+		break;
     case("Professional degree needed to practice in a licensed profession"):
     	educationPoints = 23;
+		break;
     case("University degree at the Master's level"):
     	educationPoints = 23;
+		break;
     case("University degree at the Doctoral (PhD) level"):
     	educationPoints = 25;
+		break;
     default:
     	educationPoints = 0;
+    	break;
     }
 
     return educationPoints;
@@ -140,14 +150,14 @@ public static int workExperiencePoints(Applicant applicant) {
     } else if (workExperience > 5) {
         workExperiencePoints = 15;
     }
-
+    
     return workExperiencePoints;
 }
 
 public static int agePoints(Applicant applicant) {
     int age = applicant.getAge();
     int agePoints = 0;
-
+    
     if (age < 18) {
         agePoints = 0;
     } else if (age >= 18 && age <= 35) {
@@ -158,7 +168,6 @@ public static int agePoints(Applicant applicant) {
         agePoints = 0;
     }
     	
-
     return agePoints;
 }
 
@@ -170,25 +179,25 @@ public static int arrangedWorkPoints(Applicant applicant) {
 public static int adaptabilityPoints(Applicant applicant) {
     int adaptabilityScore = 0;
 
-    if (applicant.getAdaptabilitySpouseLanguage().equals("true")) {
+    if (applicant.getAdaptabilitySpouseLanguage().equals("yes")) {
         adaptabilityScore += 5;
     }
-    if (applicant.getAdaptabilitySpouseEducation().equals("true")) {
+    if (applicant.getAdaptabilitySpouseEducation().equals("yes")) {
         adaptabilityScore += 5;
     }
-    if (applicant.getAdaptabilitySpouseWork().equals("true")) {
+    if (applicant.getAdaptabilitySpouseWork().equals("yes")) {
         adaptabilityScore += 5;
     }
-    if (applicant.getAdaptabilityYouEducation().equals("true")) {
+    if (applicant.getAdaptabilityYouEducation().equals("yes")) {
         adaptabilityScore += 5;
     }
-    if (applicant.getAdaptabilityYouWork().equals("true")) {
+    if (applicant.getAdaptabilityYouWork().equals("yes")) {
         adaptabilityScore += 10;
     }
-    if (applicant.getAdaptabilityYouEmployment().equals("true")) {
+    if (applicant.getAdaptabilityYouEmployment().equals("yes")) {
         adaptabilityScore += 5;
     }
-    if (applicant.getAdaptabilityRelatives().equals("true")) {
+    if (applicant.getAdaptabilityRelatives().equals("yes")) {
         adaptabilityScore += 5;
     }
 
