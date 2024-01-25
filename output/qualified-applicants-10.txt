@@ -1,0 +1,9 @@
+First Name          |Last Name           |  Age|Score
+--------------------+--------------------+-----+-----
+Aaron                Grimm                   30    76
+Aaron                Koressel                33    86
+Aaron                Russo                   30    76
+Abigail              Kelley                  57    68
+Abraham              Harper                  58    75
+Abraham              Howard                  26    82
+Ada                  Walker                  61    71

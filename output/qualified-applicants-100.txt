@@ -1,0 +1,68 @@
+First Name          |Last Name           |  Age|Score
+--------------------+--------------------+-----+-----
+Aaron                Grimm                   30    76
+Aaron                Koressel                33    86
+Aaron                Russo                   30    76
+Abigail              Kelley                  57    68
+Abraham              Harper                  58    75
+Abraham              Howard                  26    82
+Ada                  Walker                  61    71
+Adam                 Faruqi                  38    79
+Adam                 Fuchs                   21    75
+Adam                 Gates                   19    86
+Adam                 Wermus                  26    80
+Adam                 Woodbury                34    76
+Addie                Chandler                54    70
+Addielyn             Thurston                18    83
+Adelaide             Carter                  20    74
+Adelaide             Clark                   74    72
+Adison               Scott                   53    70
+Adrian               Owens                   35    83
+Adrian               Bell                    62    75
+Adrian               Maruri                  58    70
+Aida                 Higgins                 50    67
+Aimei                Kutt                    65    69
+AJ                   Zmudosky                21    67
+Alan                 Adams                   47    67
+Alan                 Edwards                 45    71
+Alan                 Browning                45    67
+Alex                 Iles                    64    70
+Alex                 Marino                  36    78
+Alex                 Mohr                    28    84
+Alexandra            Zalucky                 36    81
+Alexandro            Campos                  21    72
+Alfonso              Caparrini               22    87
+Alicea               Lin Engquist            52    68
+Alison               Fernandez               41    75
+Alissa               Hunt                    20    86
+Allen                Fogle                   66    75
+Alma                 Fernandez               31    74
+Alon                 Tamir Winterstein       51    69
+Alvin                Chea                    55    70
+Aly                  Fidiam-Smith            41    71
+Alyssa               Del Vigna               38    78
+Alyssa               Mar                     47    71
+Alyssa               Minko                   51    72
+Alyssa               Murphy                  42    74
+Alyssa               Park                    48    74
+Amanda               Goodpaster              28    78
+Amanda               Wagner                  29    75
+Amandeep             Singh                   32    83
+Amelia               Williams                62    68
+Amit                 Ganapati Baadkar        51    74
+Amy                  Perry                   18    72
+Amy                  H. Chen                 74    70
+Amy                  Hershberger             45    74
+Ana                  Gabriela Lacaze         40    77
+Ana                  Ram'rez Gonz'les        45    69
+Andie                Sanchez                 22    84
+Andrea               Aleman                  65    70
+Andrea               Warren                  27    74
+Andrea               Zomorodian              36    79
+Andreas              Procopiou               55    67
+Andrew               Ryan                    20    86
+Andrew               Jimenez                 43    74
+Andrew               Kinney                  74    69
+Andrew               Page                    62    68
+Andrew               Perez                   45    76
+Andrew               Pienaar                 30    76
