@@ -17,6 +17,5 @@ public class AppDriver {
 		
 		c.writeFile(applicants, "output/" + outPath);
 		System.out.println("There were " + applicants.size() + " qualified applicants");
-		System.out.println("Run Successfully");
 	}
 }
